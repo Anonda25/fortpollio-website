@@ -201,4 +201,25 @@ main {
 
 .resume-container{
     display: flex;
+    gap:20px;
 }
+
+.resume-title{
+    text-align: center;
+    margin: 50px;
+    padding: 10px 10px 30px 10px;
+}
+
+.resume-column-title{
+    color:#202020;
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.experience-title{
+    color: #2e2e2e;
+    font-size: 20px;
+    font-weight: 800;
+}
+
