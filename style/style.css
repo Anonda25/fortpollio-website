@@ -235,12 +235,19 @@ text-align: left;
 
 
 @media screen and (max-width:576px) {
-    .do-skill, footer {
+    .do-skill,
+     footer, 
+     .resume-container, 
+     .about-section  {
       flex-direction: column;
         
     
     }
 
+    .about {
+        margin: 0px;
+        padding: 20px;
+    }
     footer{
         padding: 20px;
     }
